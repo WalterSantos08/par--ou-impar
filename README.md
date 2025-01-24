@@ -20,14 +20,14 @@ Este programa em Java solicita que o usuário insira um número e executa as seg
 
 ## Como executar
 
-1. Copie o código para um arquivo chamado `o1.java`.
+1. Copie o código para um arquivo chamado `parImpar.java`.
 2. Compile o programa com o seguinte comando no terminal:
    ```
-   javac o1.java
+   javac parImpar.java
    ```
 3. Execute o programa com o comando:
    ```
-   java o1
+   java parImpar
    ```
 4. Insira um número quando solicitado.
 
